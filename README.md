@@ -27,6 +27,3 @@ We’re planning to introduce a group trip mode to simplify expense management d
 
  Conclusion
 This expense tracker app offers a powerful yet simple solution for managing personal finances. With its intuitive interface, secure backend, and planned future upgrades, the app is designed to make financial management effortless and effective for users.
-
-
-This will provide a clear introduction, installation guide, and explanation of the contents of your project for anyone who visits your GitHub repository. Let me know if you'd like any changes!
