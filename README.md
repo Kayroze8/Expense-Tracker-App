@@ -15,7 +15,7 @@ We’re planning to introduce a group trip mode to simplify expense management d
  Installation and Setup
 1. Clone the repository to your local machine:
    
-   git clone https://github.com/your-username/Expense-Tracker-App.git
+   git clone https://github.com/Kayroze8/Expense-Tracker-App.git
 
 2. Open the project in your preferred IDE for mobile development (e.g., Android Studio).
 3. Connect the project to your Firebase account to enable authentication and real-time database functionalities.
